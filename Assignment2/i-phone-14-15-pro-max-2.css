@@ -1,0 +1,133 @@
+.iphone-14-15-pro-max-2-child {
+  position: absolute;
+  top: 78px;
+  left: -4px;
+  background-color: var(--color-white);
+  width: 434px;
+  height: 865px;
+}
+.flipkart {
+  top: 15px;
+  left: 0;
+  font-size: var(--font-size-17xl);
+  font-weight: 500;
+  color: var(--color-white);
+  white-space: pre-wrap;
+  width: 430px;
+  height: 82px;
+}
+.enter-your-phone,
+.flipkart,
+.log-in-for {
+  position: absolute;
+  display: inline-block;
+}
+.log-in-for {
+  top: 119px;
+  left: 0;
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  white-space: pre-wrap;
+  width: 430px;
+  height: 28px;
+  mix-blend-mode: darken;
+}
+.enter-your-phone {
+  top: 159px;
+  left: 19px;
+  width: 317px;
+}
+.iphone-14-15-pro-max-2-item {
+  position: absolute;
+  top: 224px;
+  left: 22px;
+  border-radius: 5px;
+  background-color: var(--color-gainsboro);
+  border: 1px solid var(--color-royalblue-100);
+  box-sizing: border-box;
+  width: 393px;
+  height: 57px;
+  cursor: pointer;
+}
+.div4,
+.phone-number,
+.use-email-id {
+  position: absolute;
+  display: inline-block;
+}
+.phone-number {
+  top: 224px;
+  left: 30px;
+  color: #2170f1;
+  width: 130px;
+  height: 16px;
+}
+.div4,
+.use-email-id {
+  top: 252px;
+  left: 33px;
+  width: 37px;
+  height: 24px;
+}
+.use-email-id {
+  top: 288px;
+  left: 314px;
+  font-size: var(--font-size-base);
+  width: 116px;
+  height: 22px;
+}
+.terms-of-use,
+.use-email-id {
+  color: var(--color-mediumblue);
+}
+.by-continuing-you-container {
+  position: absolute;
+  top: 345px;
+  left: 20px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 413px;
+  height: 53px;
+}
+.iphone-14-15-pro-max-2-inner {
+  position: absolute;
+  width: 100%;
+  top: 881px;
+  right: -4px;
+  left: 4px;
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  height: 52px;
+  cursor: pointer;
+}
+.iphone-14-15-pro-max-2-child1 {
+  position: absolute;
+  top: 881px;
+  left: 11px;
+  background-color: var(--color-gray-100);
+  width: 415px;
+  height: 40px;
+  cursor: pointer;
+}
+.continue1 {
+  position: absolute;
+  top: 898px;
+  left: 170px;
+  font-size: var(--font-size-base);
+  color: var(--color-white);
+  display: inline-block;
+  width: 155px;
+  height: 19px;
+  cursor: pointer;
+}
+.iphone-14-15-pro-max-2 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-royalblue-200);
+  height: 932px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-lg);
+  color: var(--color-black);
+  font-family: var(--font-inter);
+}

@@ -1,0 +1,56 @@
+.whatsapp-image-2024-02-24-at-2 {
+  position: absolute;
+  top: -31px;
+  left: 0;
+  width: 430px;
+  height: 963px;
+  object-fit: cover;
+}
+.iphone-14-15-pro-max-4-child {
+  position: absolute;
+  top: 92px;
+  left: 142px;
+  background-color: var(--color-gainsboro);
+  width: 194px;
+  height: 33px;
+  cursor: pointer;
+}
+.iphone-14-15-pro-max-4-item {
+  position: absolute;
+  top: 724px;
+  left: 15px;
+  width: 111px;
+  height: 121px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.iphone-14-15-pro-max-4-child1,
+.iphone-14-15-pro-max-4-inner,
+.rectangle-icon {
+  position: absolute;
+  top: 724px;
+  left: 158px;
+  width: 106px;
+  height: 116px;
+  object-fit: cover;
+  cursor: pointer;
+}
+.iphone-14-15-pro-max-4-child1,
+.rectangle-icon {
+  top: 733px;
+  left: 289px;
+  width: 125px;
+}
+.iphone-14-15-pro-max-4-child1 {
+  top: 872px;
+  left: 379px;
+  width: 49px;
+  height: 51px;
+}
+.iphone-14-15-pro-max-4 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 932px;
+  overflow: hidden;
+}

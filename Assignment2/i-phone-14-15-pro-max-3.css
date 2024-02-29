@@ -1,0 +1,126 @@
+.flipkart1 {
+  position: absolute;
+  top: 9px;
+  left: 6px;
+  display: inline-block;
+  font-weight: 500;
+  color: var(--color-royalblue-200);
+  white-space: pre-wrap;
+  width: 424px;
+  height: 62px;
+}
+.download-2-icon {
+  position: absolute;
+  top: 10px;
+  left: 261px;
+  width: 48px;
+  height: 40px;
+  object-fit: cover;
+}
+.iphone-14-15-pro-max-3-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: var(--color-royalblue-200);
+  width: 424px;
+  height: 84px;
+}
+.flipkart2 {
+  position: absolute;
+  top: 21px;
+  left: -13px;
+  display: inline-block;
+  font-weight: 500;
+  white-space: pre-wrap;
+  width: 430px;
+  height: 82px;
+}
+.download-3-icon {
+  position: absolute;
+  top: 24px;
+  left: 251px;
+  width: 48px;
+  height: 40px;
+  object-fit: cover;
+}
+.iphone-14-15-pro-max-3-item {
+  position: absolute;
+  width: 100%;
+  top: 880px;
+  right: 0;
+  left: 0;
+  background-color: var(--color-gainsboro);
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25) inset;
+  height: 52px;
+}
+.iphone-14-15-pro-max-3-inner {
+  position: absolute;
+  top: 880px;
+  left: 7px;
+  background-color: var(--color-gray-100);
+  width: 415px;
+  height: 40px;
+}
+.blank-line {
+  margin: 0;
+}
+.verify {
+  position: absolute;
+  top: 897px;
+  left: 199px;
+  font-size: var(--font-size-base);
+  display: inline-block;
+  width: 155px;
+  height: 19px;
+  cursor: pointer;
+}
+.iphone-14-15-pro-max-3-child1,
+.iphone-14-15-pro-max-3-child2,
+.iphone-14-15-pro-max-3-child3,
+.iphone-14-15-pro-max-3-child4 {
+  position: absolute;
+  top: 245px;
+  left: 61px;
+  background-color: var(--color-gainsboro);
+  width: 55px;
+  height: 49px;
+  cursor: pointer;
+}
+.iphone-14-15-pro-max-3-child2,
+.iphone-14-15-pro-max-3-child3,
+.iphone-14-15-pro-max-3-child4 {
+  left: 133px;
+}
+.iphone-14-15-pro-max-3-child3,
+.iphone-14-15-pro-max-3-child4 {
+  left: 209px;
+}
+.iphone-14-15-pro-max-3-child4 {
+  left: 281px;
+}
+.edit {
+  color: var(--color-royalblue-200);
+}
+.please-enter-the-container {
+  position: absolute;
+  top: 186px;
+  left: 28px;
+  font-size: var(--font-size-xl);
+  font-weight: 500;
+  display: inline-block;
+  width: 391px;
+  height: 47px;
+  mix-blend-mode: normal;
+  color: var(--color-black);
+}
+.iphone-14-15-pro-max-3 {
+  width: 100%;
+  position: relative;
+  background-color: var(--color-white);
+  height: 932px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-17xl);
+  color: var(--color-white);
+  font-family: var(--font-inter);
+}
